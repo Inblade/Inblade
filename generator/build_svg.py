@@ -37,7 +37,7 @@ lines = [
     blank(),
     header('GitHub Stats'),
     kv('- Uptime', 'since Jan 2016'),
-    kv('- Repos', '13 | SLO: 99.98% uptime, 0 rage-quits'),
+    kv('- Repos', '23 | SLO: 99.98% uptime, 0 rage-quits'),
 ]
 
 themes = {
